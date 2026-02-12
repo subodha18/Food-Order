@@ -48,7 +48,8 @@ const Footer = () => {
             <FontAwesomeIcon icon={faFacebook}/>
           </a>
         </div>
-        <p className="pb-10" title="Just Kiddin' There is no Copyright for this">©️ 2024 FoodVilla. All rights reserved.</p>
+        <p className="pb-10" title="Just Kiddin' There is no Copyright for this">©️ 2025 FoodVilla. All rights reserved.</p>
+        <p>subodha.Pvt.Ltd..</p>
     </div>
   );
 };
